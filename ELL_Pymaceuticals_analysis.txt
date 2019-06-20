@@ -1,0 +1,12 @@
+#############################################
+# Esther Lowe - Pymaceuticals Inc. Analysis #
+# 06/20/2019                                #
+#############################################
+
+1. The two drugs that should be considered for further testing, maybe with human subjects and eventually considered worth marketing as anti-cancer drugs were Ramicane and Capomulin. On average, these drugs showed a 22% and 19% reduction in mouse tumor volume by the end of the treatment.
+
+2. Additionally, the number of tumors increased in all mice over the 45 day treatment, however, mice being treated with Ramicain and Capomulin had the least increase in the average number of tumors present in the mice. It would be beneficial to research drugs that could be used in combination with these drugs that would help further reduce the presence of cancer in the mice by reducing the number of metastatic sites.
+
+3. It seems that the use of Stelasyn, Naftisol, and Ketapril caused the mice to experience a greater increase in tumor volume that the placebo group. Additionally, mice treated with Propriva had the lowest survival rate, followed closely by Infubinol. These drugs seem harmful and funding towards development of these drugs should come to a halt.
+
+4. It would be interesting to do another study to determine if thenumber of metastatic sites would reach a limit in mice treated with Ramicane and Capomulin. They had the highest survival rate at the 45 day cutoff point. While after 45 days, the cancer was not removed from the mice, it may be effective to study the effect of these drugs in conjunction with other drugs that may help extend life. It seems the survival rate in the last 10 days was beginning to stabilize and perhaps these drugs would have resulted in the survival of the remaining mice from these drug treatements.
